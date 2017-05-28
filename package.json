@@ -1,0 +1,19 @@
+{
+  "name": "veryfirstproject",
+  "version": "1.0.0",
+  "description": "My first node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "testFirst"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayeshPC/veryfirstproject.git"
+  },
+  "author": "Jayesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayeshPC/veryfirstproject/issues"
+  },
+  "homepage": "https://github.com/JayeshPC/veryfirstproject#readme"
+}
